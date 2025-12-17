@@ -1,0 +1,10 @@
+
+---
+
+# 📄 `requirements.txt`
+
+```txt
+# System dependencies (install via apt, not pip)
+adb
+scrcpy
+python3
